@@ -1,0 +1,11 @@
+/* App.css */
+
+/* Optional: Add any custom styles here if needed */
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.overlay-text {
+  pointer-events: none;
+}
